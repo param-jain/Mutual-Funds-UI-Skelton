@@ -6,5 +6,5 @@
   
 ## I would suggest to Signup everytime you want to check the Profile Section
 
-## Kindly edit the Data in this.state of Listing.js Page to check the Listing Details if needed.
+## Kindly edit the Data in src/Assets/Data.js to modify the state of Listing if needed.
   
