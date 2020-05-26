@@ -1,0 +1,13 @@
+export const BG_GRADIENT_1 = '#3F25E5';
+export const BG_GRADIENT_2 = '#022C71';
+export const BG_GRADIENT_3 = '#44034F';
+export const DEEP_BLUE_1 = '#02317E';
+export const RED_ERROR = '#F44366';
+export const BTN_GRADIENT_1 = '#A774DB';
+export const BTN_GRADIENT_2 = '#4147D9';
+export const DEEP_BLUE_BLACK = '#263550';
+export const DARK_GREY_1 = '#808A9B';
+export const LIGHT_GREY_1 = '#F6F7F8';
+export const LIGHT_GREY_2 = '#E7EAED';
+export const LIGHT_GREY_3 = '#C1C8D3';
+export const PLACEHOLDER_GREY = '#C7C7CD';
