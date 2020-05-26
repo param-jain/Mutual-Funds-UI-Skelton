@@ -5,7 +5,6 @@ import { Input, Icon, Button, CheckBox } from 'react-native-elements';
 
 import * as Styles from '../../Assets/Styles'
 import * as Colors from '../../Assets/Colors'
-import * as Constants from '../../Assets/Constants'
 
 import { TouchableOpacity, ScrollView } from 'react-native-gesture-handler';
 import { withTheme } from 'react-native-paper';

@@ -6,20 +6,19 @@ import { LinearGradient } from "expo-linear-gradient";
 
 import * as Styles from "../../Assets/Styles";
 import * as Colors from "../../Assets/Colors";
-import * as Constants from "../../Assets/Constants";
 import { TouchableOpacity } from 'react-native-gesture-handler';
 
 class Auth extends React.Component {
     
     constructor(props) {
         super(props);
-        this.state ={
+        this.state = {
             email: '',
             password: '',
             emailError: '',
             passwordError: '',
             dummyAccess: {
-                email: 'param',
+                email: 'param_jain@icloud.com',
                 password: '1234567890'
             }
         }
